@@ -1,0 +1,8 @@
+.gitignore
+**/.vscode
+
+**/src/module
+hotloader
+
+*.o
+*.d
